@@ -1,16 +1,25 @@
 ### Hi there 👋
 
+Full-stack developer, blockchain consultant and digital currency developer from Colorado currently living in Cyprus. Formally at the [University of Northern Colorado](https://www.unco.edu), crrently at [IOV Labs](https://iovlabs.org/).
+
+- 🔭 I’m currently working on
+  - Single Sign on via Web3 Provider: [rLogin](https://github.com/rsksmart/rLogin), [RIF Identity Manager](https://github.com/rsksmart/rif-identity-manager)
+  - Self Soverign Identity: [RIF Self-sovereign identity UI library](https://github.com/rsksmart/rif-identity-ui)
+- 📫 How to reach me: My [personal blog](https://developerjesse.com) has my contact information
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I have a [photo of the day project](https://jesse.photo) that has been ongoing since 2006.
+
 <!--
 **jessgusclark/jessgusclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning
+  - Advanced JavaScript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 -->
