@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full-stack developer, blockchain consultant and digital currency developer from Colorado currently living in Cyprus. Formally at the [University of Northern Colorado](https://www.unco.edu), crrently at [IOV Labs](https://iovlabs.org/).
+Full-stack developer, blockchain consultant and digital currency developer from Colorado living in Cyprus. Formally at the [University of Northern Colorado](https://www.unco.edu), crrently at [IOV Labs](https://iovlabs.org/).
 
 - 🔭 I’m currently working on
   - Single Sign on via Web3 Provider: [rLogin](https://github.com/rsksmart/rLogin), [RIF Identity Manager](https://github.com/rsksmart/rif-identity-manager)
