@@ -8,7 +8,8 @@ Full-stack developer, blockchain consultant and digital currency developer from 
     - [RIF Identity Manager](https://github.com/rsksmart/rif-identity-manager)
     - [RIF Self-sovereign identity UI library](https://github.com/rsksmart/rif-identity-ui)
     - [Credential & Presentation Verifier](https://github.com/rsksmart/rif-credential-verifier)
-    - [Mock Web3 Provider for Cypress Testing](https://github.com/rsksmart/mock-web3-provider)
+  - [Mock Web3 Provider for Cypress Testing](https://github.com/rsksmart/mock-web3-provider)
+  - [RNS Domain Manager](https://github.com/rnsdomains/rns-manager-react)
 - 📫 How to reach me: 
   - 📝 [My personal blog](https://developerjesse.com) has my contact information
   - 🔗 [LinkedIn](https://www.linkedin.com/in/jessgusclark/)
