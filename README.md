@@ -2,7 +2,7 @@
 
 Full-stack developer, blockchain consultant and digital currency developer from Colorado living in Cyprus. Formally at the [University of Northern Colorado](https://www.unco.edu), currently at [IOV Labs](https://iovlabs.org/).
 
-- 🔭 I’m currently working on
+- 🔭 Blockchain projects I’m currently working on
   - Single Sign on via Web3 Provider: [rLogin](https://github.com/rsksmart/rLogin)
   - Self-sovereign identity:
     - [RIF Identity Manager](https://github.com/rsksmart/rif-identity-manager)
@@ -10,6 +10,8 @@ Full-stack developer, blockchain consultant and digital currency developer from 
     - [Credential & Presentation Verifier](https://github.com/rsksmart/rif-credential-verifier)
   - [Mock Web3 Provider for Cypress Testing](https://github.com/rsksmart/mock-web3-provider)
   - [RNS Domain Manager](https://github.com/rnsdomains/rns-manager-react)
+- 🎼 Non-blockchain projects
+  - [PracticeSightReaidng.com](https://practicesightreading.com)
 - 📫 How to reach me: 
   - 📝 [My personal blog](https://developerjesse.com) has my contact information
   - 🔗 [LinkedIn](https://www.linkedin.com/in/jessgusclark/)
