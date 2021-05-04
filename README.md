@@ -11,7 +11,7 @@ Full-stack developer, blockchain consultant and digital currency developer from 
   - [Mock Web3 Provider for Cypress Testing](https://github.com/rsksmart/mock-web3-provider)
   - [RNS Domain Manager](https://github.com/rnsdomains/rns-manager-react)
 - 🎼 Non-blockchain projects
-  - [PracticeSightReaidng.com](https://practicesightreading.com)
+  - [PracticeSightReading.com](https://practicesightreading.com)
 - 📫 How to reach me: 
   - 📝 [My personal blog](https://developerjesse.com) has my contact information
   - 🔗 [LinkedIn](https://www.linkedin.com/in/jessgusclark/)
