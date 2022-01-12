@@ -16,7 +16,6 @@ Full-stack developer, blockchain consultant and digital currency developer from 
   - 📝 [My personal blog](https://developerjesse.com) has my contact information
   - 🔗 [LinkedIn](https://www.linkedin.com/in/jessgusclark/)
 - 🌱 Pronouns: he/him/his
-- ⚡ Fun fact: I have a 📸[photo of the day project](https://jesse.photo) that has been ongoing since 2006.
 
 <!--
 **jessgusclark/jessgusclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
