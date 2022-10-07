@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full-stack developer, blockchain consultant and digital currency developer from Colorado 🇺🇸 living in Cyprus 🇨🇾. Formally at the [University of Northern Colorado](https://www.unco.edu), currently I'm a Senior Software Engineer at [IOV Labs](https://iovlabs.org/).
+Full-stack developer, blockchain consultant and digital currency developer from Colorado 🇺🇸 living in Cyprus 🇨🇾. Formally at the [University of Northern Colorado](https://www.unco.edu), currently I'm a Tech Lead at [IOV Labs](https://iovlabs.org/) working on a smart contract based crypto wallet.
 
 - ⛓ Blockchain projects I’m currently working on
   - Single Sign on via Web3 Provider: [rLogin](https://github.com/rsksmart/rLogin)
