@@ -3,6 +3,7 @@
 Full-stack developer, blockchain consultant and digital currency developer from Colorado 🇺🇸 living in Cyprus 🇨🇾. Formally at the [University of Northern Colorado](https://www.unco.edu), currently I'm a Tech Lead at [IOV Labs](https://iovlabs.org/) working on a smart contract based crypto wallet.
 
 - ⛓ Blockchain projects I’m currently working on
+  - [RIF Wallet](https://github.com/rsksmart/rif-wallet) an account abstraction wallet on Rootstock (EVM) that allows users to pay gas fees in ERC20 tokens
   - Single Sign on via Web3 Provider: [rLogin](https://github.com/rsksmart/rLogin)
   - Self-sovereign identity:
     - [RIF Identity Manager](https://github.com/rsksmart/rif-identity-manager)
@@ -10,7 +11,7 @@ Full-stack developer, blockchain consultant and digital currency developer from 
     - [Credential & Presentation Verifier](https://github.com/rsksmart/rif-credential-verifier)
   - [Mock Web3 Provider for Cypress Testing](https://github.com/rsksmart/mock-web3-provider)
   - [RNS Domain Manager](https://github.com/rnsdomains/rns-manager-react)
-  - [Multisig Sample dapp](https://github.com/rsksmart/multisig-sample-app) 
+  - [Gnosis Safe Multisig Sample dapp](https://github.com/rsksmart/multisig-sample-app) 
 - 🎼 Non-blockchain projects
   - [PracticeSightReading.com](https://practicesightreading.com)
 - 📫 How to reach me: 
